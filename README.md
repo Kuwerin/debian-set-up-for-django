@@ -1,6 +1,6 @@
-'''
+```
 adduser www
-'''
+```
 
 # Debian Server Set Up for Django Instruction
 
